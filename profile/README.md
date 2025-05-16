@@ -1,12 +1,16 @@
-## Hi there 👋
+## Kelompok B-03 - GatherLove
 
-<!--
+<h3>Anggota Kelompok</h3>
 
-**Here are some ideas to get you started:**
+| Nama | NPM |
+|------|-----|
+| Filbert Aurelian Tjiaranata | 2306152336 |
+| Muhammad Abyasa Pratama | 2306207663 |
+| Muhammad Akmal Abdul Halim | 2306245125 |
+| Paima Ishak Melkisedek Purba | 2306275986 |
+| Wida Putri Kinasih | 2306229840 |
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## B-03 Model of The Current Architecture
+
+#### Context Diagram 
+![ContextDiagram](images/ContextDiagram.png)
