@@ -23,5 +23,7 @@
 
 #### Individu
 ##### Wallet
+##### Component Diagram Wallet
 ![Component Diagram Wallet](images/ComponentDiagramWallet.jpeg)
+##### Code Diagram Wallet
 ![Code Diagram Wallet](images/CodeDiagramWallet.png)
