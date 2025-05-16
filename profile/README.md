@@ -20,3 +20,8 @@
 
 #### Deployment Diagram
 ![Deployment Diagram](images/Editor%20_%20Mermaid%20Chart-2025-05-16-132500.png)
+
+#### Individu
+##### Wallet
+![Component Diagram Wallet](images/ComponentDiagramWallet.jpeg)
+![Code Diagram Wallet](images/CodeDiagramWallet.png)
